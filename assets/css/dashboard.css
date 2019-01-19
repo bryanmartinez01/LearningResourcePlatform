@@ -1,0 +1,58 @@
+.dashcont {
+	width: 100%;
+	margin-bottom: 50px;
+	background-color: #f6fff7;
+}
+
+.imdash {
+	width: 80%;
+	height: 45vh;
+	margin: 20px 0px 0px 0px;
+	padding: 20px 40px 10px 40px;
+}
+
+.imdash:hover {
+	width: 85%;
+	height: 50vh;
+	margin: 20px 0px 0px 0px;
+	padding: 20px 40px 10px 40px;
+	transition: 0.2s;
+}
+
+.drp {
+	padding: 0 10px 0 10px;
+	font-color: #000;
+}
+
+.dashti {
+	margin: 0;
+}
+
+.dashlink {
+	border-radius: 25px;
+	font: 18px 'Roboto', Arial, Helvetica, sans-serif;
+	width: 50%;
+	line-height: 20px;
+	border-color: #ff6666;
+	background-color: #ff6666;
+	margin-top: 20px;
+	margin-bottom: 0;
+}
+
+.dashlink:hover {
+	border-color: #6666ff;
+  	background-color: #6666ff;
+  	cursor: pointer;
+  	color: #fff ;
+
+}
+
+.dashti1 {
+	text-align: justify;
+	margin: 0;
+	padding: 10px 60px 10px 60px;
+}
+
+.border {
+	border-color: #000;
+}

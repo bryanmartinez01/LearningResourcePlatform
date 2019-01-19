@@ -1,0 +1,7 @@
+.cont:hover {
+  cursor: pointer;
+}
+
+.cont:focus {
+  background-color: #c0c0c0;
+}
